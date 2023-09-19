@@ -1,6 +1,6 @@
 # Pipeline de ETL com Python
 
-## Esse repositório foi desenvolvido para um dos projetos do bootcamp Santander da DIO usando como exemplo a comunidade ativa e o curso de banco de dados.
+## Esse repositório foi desenvolvido para o projeto de ETL do bootcamp Santander da DIO usando como exemplo a comunidade ativa e o curso de banco de dados.
 
 
 ### Projeto
