@@ -1,27 +1,7 @@
-# https://github.com/zeer0e1/dio-santbootcamp-etl-project Git modelo
-
-# Arquivos .csv
-# destinys.csv
-# DestinyID/CityName/Point
-# travelers.csv
-# name/city/city_point
-# users.csv
-# UserID,UserName,DestinyID 
-
-# Sugerir investimentos para os clientes
-# Usuarios
-# Aplicações
-# Recomendações
-
-# Titulos de capitalização
-# BDR
-# CDB
-
 import csv
 
 # Extract
 
-# Criando um dicionário para armazenar as imformações do csv
 data_users = {}
 data_destinys = {}
 list_travelers = []
